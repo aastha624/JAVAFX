@@ -4,7 +4,6 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
         {
             "type": "java",
             "name": "Current File",
@@ -17,7 +16,7 @@
             "request": "launch",
             "mainClass": "App",
             "projectName": "javafxprojects_35a723d2",
-            "vmArgs" : "--module-path \"C:/java/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+            "vmArgs":  "--module-path \"C:/java/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
