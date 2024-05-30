@@ -6,13 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "App",
-            "request": "launch",
-            "mainClass": "App",
-            "projectName": "javafxstage_4810b74c"
-        },
-        {
-            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -22,8 +15,9 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "javafxstage_bf924a4d",
+            "projectName": "screenbuilder_defb4b38",
             "vmArgs": "--module-path \"C:/java/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+   
         }
     ]
 }
