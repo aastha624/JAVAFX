@@ -15,9 +15,9 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "Eventhandling_1a4c0e78",
+            "projectName": "javafxcommunicationbetweencontroller_d833f5e6",
             "vmArgs": "--module-path \"C:/java/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
-     
+            
         }
     ]
 }
